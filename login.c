@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("Es por eso que lo merezco pero no lo quiero y por eso me voy");
+    printf("Es por eso que lo merezco pero no lo quiero y por eso me voy que lastima pero adios");
 }
